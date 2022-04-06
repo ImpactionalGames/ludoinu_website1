@@ -19,7 +19,7 @@ section {
 }
 
 .navbar {
-    background-color: #23046beb !important;
+    background-color: #11032fd1 !important;
     font-family: 'Poppins',
         sans-serif;
 
@@ -29,7 +29,7 @@ section {
 .first {
     /* background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,83,1) 35%, rgba(0,212,255,1) 100%); */
-    background:radial-gradient(ellipse at right bottom, #7e2d8c 26%, #5b1c91 21%, #23046beb 44%, #23046beb 100%);
+    background:radial-gradient(ellipse at right bottom, #7e2d8c 26%, #7a41ab 21%, #20065ceb 44%, #000000eb 100%);
     margin-top: 85px;
 }
 
@@ -99,16 +99,15 @@ section {
 }
 
 .play {
-    background-color: #FFD842;
+    background-color: #0022ff;
     height: 70px;
     width: 70%;
     margin-top: 35px;
     border-radius: 40px;
-    box-shadow: 10px 10px 5px lightblue;
-    color: #1F1B90;
+    box-shadow: 14px 7px 16px 5px #1538a6;
+    color: #ff0000;
     font-size: 30px;
-    font-family: 'Josefin Sans',
-        sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     transition: 1s;
 }
 
@@ -134,11 +133,11 @@ section {
 }
 
 .second {
-    background: radial-gradient(ellipse at right top, #7e2d8c 26%, #5b1c91 21%, #23046beb 44%, #23046beb 100%);
+    background: radial-gradient(ellipse at right top, #7e2d8c 26%, #7a41ab 21%, #20065ceb 44%, #000000eb 100%);
 }
 
 .fourth {
-    background: radial-gradient(ellipse at left top, #7e2d8c 26%, #5b1c91 21%, #23046beb 44%, #23046beb 100%);
+    background: radial-gradient(ellipse at left top, #7e2d8c 26%, #7a41ab 21%, #20065ceb 44%, #000000eb 100%);
 }
 
 .imgsec2 {
@@ -166,7 +165,7 @@ section {
 }
 
 .third {
-    background: radial-gradient(ellipse at left bottom, #7e2d8c 26%, #5b1c91 21%, #23046beb 44%, #23046beb 100%);
+    background: radial-gradient(ellipse at left bottom, #7e2d8c 26%, #7a41ab 21%, #20065ceb 44%, #000000eb 100%);
     padding-bottom: 30px;
 }
 
@@ -251,7 +250,7 @@ section {
 }
 
 .footer {
-    background-color: #200463;
+    background-color: #0d0325;
 }
 
 .logo2 {
